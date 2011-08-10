@@ -1,0 +1,10 @@
+Package: com.vladkorotnev.overheat
+Name: OverheatMe
+Depends: firmware (>= 5.0)
+Version: 1.0.0-8
+Architecture: iphoneos-arm
+Description: Keep your friends away from your phone
+Maintainer: Vladislav Korotnev
+Author: Vladislav Korotnev
+Section: Widgets
+Installed-Size: 24
